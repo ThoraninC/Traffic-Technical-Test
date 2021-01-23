@@ -63,7 +63,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Pedestrian.cs" />
+    <Compile Include="Assets\Script\PedestrianNode.cs" />
     <Compile Include="Assets\Script\RoadNode.cs" />
+    <Compile Include="Assets\Script\Vehicle.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/gits/Traffic Techincal Test/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
